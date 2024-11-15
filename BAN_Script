@@ -1,4 +1,170 @@
 config firewall address
-edit "Geo_"
+edit "Geo_Afghanistan"
 set type geography
-set country ""
+set country "AF"
+end
+config firewall address
+edit "Geo_Austria"
+set type geography
+set country "AT"
+end
+config firewall address
+edit "Geo_Bangladesh"
+set type geography
+set country "BD"
+end
+config firewall address
+edit "Geo_Belgium"
+set type geography
+set country "BE"
+end
+config firewall address
+edit "Geo_Brazil"
+set type geography
+set country "BR"
+end
+config firewall address
+edit "Geo_China"
+set type geography
+set country "CN"
+end
+config firewall address
+edit "Geo_Cuba"
+set type geography
+set country "CU"
+end
+config firewall address
+edit "Geo_Germany"
+set type geography
+set country "DE"
+end
+config firewall address
+edit "Geo_Hong Kong"
+set type geography
+set country "HK"
+end
+config firewall address
+edit "Geo_India"
+set type geography
+set country "IN"
+end
+config firewall address
+edit "Geo_Ireland"
+set type geography
+set country "IE"
+end
+config firewall address 
+edit "GEO_Israel"
+set type geography
+set country "IL"
+end
+config firewall address 
+edit "GEO_Iraq"
+set type geography
+set country "IQ"
+end
+config firewall address
+edit "Geo_Italy"
+set type geography
+set country "IT"
+end
+config firewall address
+edit "Geo_Japan"
+set type geography
+set country "JP"
+end
+config firewall address
+edit "Geo_Mexico"
+set type geography
+set country "MX"
+end
+config firewall address
+edit "Geo_Nepal"
+set type geography
+set country "NP"
+end
+config firewall address
+edit "Geo_Netherlands"
+set type geography
+set country "NL"
+end
+config firewall address
+edit "Geo_North Korea"
+set type geography
+set country "KP"
+end
+config firewall address 
+edit "GEO_Korea, Republic of"
+set type geography
+set country "KR"
+end
+config firewall address
+edit "Geo_Pakistan"
+set type geography
+set country "PK"
+end
+config firewall address
+edit "Geo_PANAMA"
+set type geography
+set country "PA"
+end
+config firewall address 
+edit "GEO_Philippines"
+set type geography 
+set country "PH"
+end
+config firewall address
+edit "Geo_Poland"
+set type geography
+set country "PL"
+end
+config firewall address 
+edit "GEO_Palestinian Territory"
+set type geography
+set country "PS"
+end
+config firewall address
+edit "Geo_Romania"
+set type geography
+set country "RO"
+end
+config firewall address
+edit "Geo_RUSSIA"
+set type geography
+set country "RU"
+end
+config firewall address
+edit "GEO_Singapore"
+set type geography
+set country "SG"
+end
+config firewall address
+edit "GEO_Sweden"
+set type geography
+set country "SE"
+end
+config firewall address 
+edit "GEO_Thialand"
+set type geography
+set country "TH"
+end
+config firewall address
+edit "Geo_Turkey"
+set type geography
+set country "TR"
+end
+config firewall address
+edit "Geo_Ukraine"
+set type geography
+set country "UA"
+end
+config firewall address
+edit "Geo_Uzbekistan"
+set type geography
+set country "UZ"
+end
+config firewall address 
+edir "GEO_Vietnam"
+set type geography 
+set country "VN"
+end
