@@ -1,0 +1,4 @@
+config firewall address
+edit "Geo_"
+set type geography
+set country ""
